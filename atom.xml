@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hongruzhai.space</id>
     <title>Hongru&apos;s Blog</title>
-    <updated>2020-04-01T00:42:54.023Z</updated>
+    <updated>2020-04-01T14:22:38.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hongruzhai.space"/>
     <link rel="self" href="https://hongruzhai.space/atom.xml"/>
@@ -11,18 +11,16 @@
     <icon>https://hongruzhai.space/favicon.ico</icon>
     <rights>All rights reserved 2020, Hongru&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[Hongru's Blog]]></title>
+        <title type="html"><![CDATA[The one first post]]></title>
         <id>https://hongruzhai.space/post/about/</id>
         <link href="https://hongruzhai.space/post/about/">
         </link>
-        <updated>2020-03-31T18:09:11.000Z</updated>
+        <updated>2020-03-31T12:09:11.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>Welcome to my blog！🤝</p>
+<p>Welcome to my blog！🤝 &lt;</p>
 </blockquote>
-<h2 id="this-site">🏠 This Site</h2>
-<h2 id="who-is-hongru">👨‍💻 Who is Hongru</h2>
-<h2 id="lifefun">⛹ Life&amp;Fun</h2>
-<h2 id="contact">📬 Contact</h2>
+<p>Hongru is a statistics student, while posting the first ever blog of his, he is writing master's thesis in HASTE project in Uppsala University. He has a simple wish of proudly graduating in summer 2020.</p>
+<p>Words on the street is that Hongru makes best noodles.</p>
 ]]></content>
     </entry>
 </feed>
