@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hongruzhai.space</id>
     <title>Hongru&apos;s Blog</title>
-    <updated>2020-04-01T14:33:16.657Z</updated>
+    <updated>2020-04-01T14:38:38.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hongruzhai.space"/>
     <link rel="self" href="https://hongruzhai.space/atom.xml"/>
@@ -24,12 +24,12 @@
         <id>https://hongruzhai.space/post/about/</id>
         <link href="https://hongruzhai.space/post/about/">
         </link>
-        <updated>2020-03-31T12:09:11.000Z</updated>
+        <updated>2020-03-31T00:09:11.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>Welcome to my blog！🤝 &lt;</p>
 </blockquote>
-<p>Hongru is a statistics student, while posting the first ever blog of his, he is writing master's thesis in HASTE project in Uppsala University. He has a simple wish of proudly graduating in summer 2020.</p>
-<p>Words on the street is that Hongru makes best noodles.</p>
+<p><strong>Hongru</strong> is a statistics student, while posting the first ever blog of his, he is writing master's thesis in <a href="http://haste.research.it.uu.se">HASTE Project</a>  in Uppsala University. He has a simple wish of proudly graduating in summer 2020.</p>
+<p>Words on the street is that Hongru makes <strong>best</strong> noodles.</p>
 ]]></content>
     </entry>
 </feed>
