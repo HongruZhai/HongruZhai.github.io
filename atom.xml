@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hongruzhai.space</id>
     <title>Hongru&apos;s Blog</title>
-    <updated>2020-06-25T00:49:38.764Z</updated>
+    <updated>2020-11-13T14:47:39.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hongruzhai.space"/>
     <link rel="self" href="https://hongruzhai.space/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hongruzhai.space/images/avatar.png</logo>
     <icon>https://hongruzhai.space/favicon.ico</icon>
     <rights>All rights reserved 2020, Hongru&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Django study notes (Oktober 15)]]></title>
+        <id>https://hongruzhai.space/post/django-study-notes-oktober-15/</id>
+        <link href="https://hongruzhai.space/post/django-study-notes-oktober-15/">
+        </link>
+        <updated>2020-10-15T08:20:41.000Z</updated>
+        <content type="html"><![CDATA[<p>f</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Demo of Linear Mixed Effects Model with Single Cells Dataset]]></title>
         <id>https://hongruzhai.space/post/a-demo-of-linear-mixed-effects-model-with-single-cells-dataset/</id>
@@ -155,11 +164,12 @@ In this case, the moderation model shows that there's significant of `Nucleus In
         <id>https://hongruzhai.space/post/about/</id>
         <link href="https://hongruzhai.space/post/about/">
         </link>
-        <updated>2020-03-30T18:09:11.000Z</updated>
+        <updated>2020-03-30T12:09:11.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>Welcome to my blog！🤝</p>
+<p>Welcome to my blog！🤝<br>
+<img src="https://hongruzhai.space/post-images/1605278848050.jpg" alt="" loading="lazy"><br>
+<strong>Hongru</strong> is a graduate in Statistics. He got his master's degree at Uppsala University in the summer of 2020. Aspiring to be a capable statistician, he is now on the grind!</p>
 </blockquote>
-<p><strong>Hongru</strong> is a statistics student, while posting the first ever blog of his, he is writing master's thesis in <a href="http://haste.research.it.uu.se">HASTE Project</a>  in Uppsala University. He has a simple wish of proudly graduating in summer 2020.</p>
 <p>Words on the street is that Hongru makes <strong>best</strong> noodles.</p>
 ]]></content>
     </entry>
