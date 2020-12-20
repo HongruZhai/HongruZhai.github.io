@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hongruzhai.space</id>
     <title>Hongru&apos;s Blog</title>
-    <updated>2020-12-15T22:49:02.630Z</updated>
+    <updated>2020-12-20T21:38:55.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hongruzhai.space"/>
     <link rel="self" href="https://hongruzhai.space/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hongruzhai.space/images/avatar.png</logo>
     <icon>https://hongruzhai.space/favicon.ico</icon>
     <rights>All rights reserved 2020, Hongru&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[今年圣诞份明信片 <3]]></title>
+        <id>https://hongruzhai.space/post/jin-nian-sheng-dan-fen-ming-xin-pian-love/</id>
+        <link href="https://hongruzhai.space/post/jin-nian-sheng-dan-fen-ming-xin-pian-love/">
+        </link>
+        <updated>2020-12-20T07:33:24.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://hongruzhai.space/post-images/1608500012812.jpg" alt="😊" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《仇视女人的男人》自翻译稿件 一]]></title>
         <id>https://hongruzhai.space/post/lesslesschou-shi-nu-ren-de-nan-ren-greatergreater-zi-fan-yi-gao-jian-yi/</id>
