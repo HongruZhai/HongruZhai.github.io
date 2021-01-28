@@ -2,14 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hongruzhai.space</id>
     <title>Hongru&apos;s Blog</title>
-    <updated>2020-12-20T21:38:55.639Z</updated>
+    <updated>2021-01-28T20:18:04.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hongruzhai.space"/>
     <link rel="self" href="https://hongruzhai.space/atom.xml"/>
     <subtitle>Slow is smooth and smooth is fast.</subtitle>
     <logo>https://hongruzhai.space/images/avatar.png</logo>
     <icon>https://hongruzhai.space/favicon.ico</icon>
-    <rights>All rights reserved 2020, Hongru&apos;s Blog</rights>
+    <rights>All rights reserved 2021, Hongru&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Reading Notes: Sharon Lohr's Sampling Book. ]]></title>
+        <id>https://hongruzhai.space/post/reading-notes-sharon-lohrs-sampling-book/</id>
+        <link href="https://hongruzhai.space/post/reading-notes-sharon-lohrs-sampling-book/">
+        </link>
+        <updated>2021-01-27T05:29:11.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="allmän">Allmän</h1>
+<h2 id="a-sample-controversy">A Sample Controversy</h2>
+<p>&quot;84% of women are not satisfied emotionally with their relationships.&quot; Reported in the book <em>Women and Love: A Cultural Revolution in Progress (1987)</em>.<br>
+It probably sounds like that's a fact which applies to all women, whether they participated in the survey or not.  The book widely raised millions American eyebrows and was met with a wave of criticism.</p>
+<p>People bashed the book from various angles, including that of statistical view. Essentially, the following characteristics of the survey make it unsuitable for generalizing the results to all women:</p>
+<ul>
+<li>Since the recipients of questionnaires decides if they would be included in the sample or not, the sample was <strong>self-selected</strong>. (Hite mailed 100,000 questionnaires, of which 4.5% were returned.)</li>
+<li>The recipients were inproportionally women that have joined an &quot;all-women&quot; group, and their viewpoints may be hard to qualify as voices that speak for all women.</li>
+<li>The survey has 127 essay questions, even with several parts under each question. Who will tend to return such a survey?</li>
+<li>The wording of many of the questions are not vigoriously created, using the words such as &quot;love&quot;. As different interpretions of <em>love</em> are there, it is impossible to attach a single interpretation to any statistic result to say how many women are &quot;in love&quot;.</li>
+<li>Many of the questions are leading. They indicate the &quot;right&quot; response to make.</li>
+</ul>
+<p>Unfortunately but firmly, Hite's results can only speak for the cases of women who would have responded to this survey.</p>
+<h2 id="requirements-of-a-good-sample">Requirements of a Good Sample</h2>
+<h2 id="selection-bias">Selection Bias</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年圣诞份明信片 <3]]></title>
         <id>https://hongruzhai.space/post/jin-nian-sheng-dan-fen-ming-xin-pian-love/</id>
@@ -24,7 +47,7 @@
         <id>https://hongruzhai.space/post/lesslesschou-shi-nu-ren-de-nan-ren-greatergreater-zi-fan-yi-gao-jian-yi/</id>
         <link href="https://hongruzhai.space/post/lesslesschou-shi-nu-ren-de-nan-ren-greatergreater-zi-fan-yi-gao-jian-yi/">
         </link>
-        <updated>2020-12-15T01:01:40.000Z</updated>
+        <updated>2020-12-14T18:01:40.000Z</updated>
         <content type="html"><![CDATA[<h1 id="序章"><strong>序章</strong></h1>
 <p><em>十一月一日 周五</em></p>
 <p>几乎是一件一年一度的事情了。今年收到鲜花的主人已经是82岁。当鲜花送到的时候，他打开包裹，拆开上面的礼品纸。随后男人拿起电话听筒，电话拨到一位自退休后就居住在<a href="https://en.wikipedia.org/wiki/Siljan_(lake)">Siljan湖</a>的前刑事警官。电话上的两个男人不仅是曾经的同事，更是恰巧生于同年同月同日 —— 这多多少少可以称得上是一个讽刺。退休警官已然知道这通电话理应会在包裹寄到的上午11点后打来，在等待时喝了咖啡。今年，电话响时已是11点过半。他拿起听筒并且向对方问好。</p>
