@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hongruzhai.space</id>
+    <title>Hongru&apos;s blog</title>
+    <updated>2023-02-18T22:29:08.642Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hongruzhai.space"/>
+    <link rel="self" href="https://hongruzhai.space/atom.xml"/>
+    <subtitle>Slow is smooth and smooth is fast.</subtitle>
+    <logo>https://hongruzhai.space/images/avatar.png</logo>
+    <icon>https://hongruzhai.space/favicon.ico</icon>
+    <rights>All rights reserved 2023, Hongru&apos;s blog</rights>
+</feed>
